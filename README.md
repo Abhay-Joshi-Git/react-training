@@ -1,4 +1,4 @@
 # react-training
 contains examples, discussion implementation for react training
 
-### Note - Individual folders would be self contained npm projects or group of those
+### Note - Individual folders would be a self contained npm project or a group of those
